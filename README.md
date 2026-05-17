@@ -56,11 +56,4 @@ To get the application up and running on your local machine:
 2. Select **Run As** ➔ **Run on Server**.
 3. Access the dashboard view directly through your web browser.
 
----
 
-## 📁 Repository Contents
-
-* `/src` - Complete Java Servlet backend, application controllers, data models, and utility classes.
-* `/webapp` - JSP views, style assets, UI layouts, and deployment configurations (`web.xml`).
-* `*.sql` - Complete database schema dump and baseline tables required to seed the system.
-* `pom.xml` - Maven structural configurations and project dependencies.
